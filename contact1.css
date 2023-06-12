@@ -1,0 +1,166 @@
+.page1
+{
+    
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    border-bottom: 1px solid whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#ONE
+{
+    position: relative;
+    left: 900px;
+    bottom: 10px;
+}
+#two
+{
+    position: relative;
+    left: 950px;
+    bottom: 10px;
+}
+#three
+{
+    position: relative;
+    left: 1000px;
+   bottom: 10px;
+
+}
+#four
+{
+    
+    position: relative;
+    left: 1050px; 
+    bottom: 10px;
+    
+}
+
+#hp
+{
+    border: 1px solid transparent; 
+    font-size: 70px;
+    text-align: left ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    position: relative;
+    top: 25px;
+    
+}
+#body
+{
+    background-image: url("i2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#se
+{
+    position: relative;
+    top: 0px;
+    left: 400px;
+    color: white;
+}
+
+#sega
+{
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+#formdiv
+{
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    align-content: center;
+    
+}
+.icon
+{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    border: transparent 1px;
+    border-radius: 260px;
+}
+.icontext
+{
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+#div
+{
+    text-align: center;
+    height: 50px;
+    width: 370px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: black;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+#submit
+{
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    
+    background-image: url("jl.jpg");
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+#follow
+{
+    
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 600px;
+    color: white;
+    font-size: 25px;
+}
+.ficon
+{
+    height: 20px;
+    width: 20px;
+}
+#center
+{
+    text-align: center;
+    color: rgb(25, 25, 54);
+}
+#foot
+{
+    text-align: center;
+   opacity: 75%;
+    font-size: 20px;
+    background-color: rgb(192, 230, 249);
+}
+#li
+{
+    
+    color: white;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold
+}
